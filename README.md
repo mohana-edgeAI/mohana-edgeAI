@@ -1,8 +1,4 @@
 
-![PhotoGrid_1606774822181_2](https://user-images.githubusercontent.com/29673947/100672892-d64b4200-3362-11eb-9237-2665db6c8d02.jpg)
-
-
-
 ### Hi, I'm Mohana 👋🏼👨🏻‍💻
 MSc Data Analytics from University of Hildesheim, Germany. passionate engineer, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way. 
 
@@ -24,17 +20,6 @@ My GitHub:
 ![GitHub followers](https://img.shields.io/github/followers/mmohana-edgeAI)
 ![](https://komarev.com/ghpvc/?username=mohana-edgeAI&color=brightgreen&style=flat)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a Data Scientist and Head of Edge AI
-- 🌱 I’m currently learning Azure, Telekom Docker,Kubernetes.
-- 👯 I’m looking to collaborate on Any project
-- 🤔 I’m looking for help with Federated Learning on the Healthcare and Energy sector application
-- 💬 Ask me about What Ever you want to
-- 📫 How to reach me: mohanan.venkatesha@gmail.com
-- 😄 Pronouns: He/Him
-- 🕵️‍♂️ Working on Data Science/ML Projects
-- ⚡ Fun fact: "Coder Never Sleeps"
 -->
 
 <!-- ## Find me around the web 🌍 
